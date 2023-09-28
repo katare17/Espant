@@ -1,5 +1,5 @@
 # Espant
-Nettside/app for pant til Espen
+Nettside/app for pant til "Esther"
 
 Tenker vi prøver å lage flere pages som man kan klikke seg gjennom
 
